@@ -1,10 +1,6 @@
-# 明日方舟
+# 碧蓝档案
 
-> 这片大地。
-
-- 兽耳
-- 魔物
-- 失忆
+> If you're going through hell, keep going.
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[寻找档案](./guide.md)
