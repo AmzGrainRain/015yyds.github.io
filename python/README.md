@@ -478,7 +478,7 @@ print(my_dict)  # 输出: {'name': 'Alice', 'age': 26, 'city': 'New York'}
 
 ### 删除字典
 
-使用 del 关键字：：
+使用 del 关键字：
 
 ```python
 del my_dict['age']

@@ -3,7 +3,7 @@
 
 * 数据库
 
-  - [SQL](./sql/README.md)
+  - [SQL](sql/README.md)
 
 * Python
-  - [Python](./python/新建文本文档.md)
+  - [Python](python/README.md)
