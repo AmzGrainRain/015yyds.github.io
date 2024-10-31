@@ -2,5 +2,5 @@
 
 > If you're going through hell, keep going.
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[寻找宝藏](./wed/README.md)
 [寻找档案](guide.md)
